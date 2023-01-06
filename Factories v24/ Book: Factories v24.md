@@ -1,8 +1,8 @@
 # Factories v24
 
-## [Blueprint Book String Text](https://factoriobin.com/static/cdn/forever/post/b/0/0/b00t--Y6/0/v0/blueprint-bf851ae0b7f64e09.txt)
+## [Blueprint Book String Text](https://factoriobin.com/static/cdn/forever/post/s/d/g/sdG1o037/0/v0/blueprint-59ca999470cfd2fe.txt)
 
-[FactorioBin](https://factoriobin.com/post/b00t--Y6)
+[FactorioBin](https://factoriobin.com/post/sdG1o037)
 
 -----
 
@@ -16,5 +16,7 @@ Factories for specific functions: (Advanced Bases)
 - Equipment
 - Rocket Components
 - Silo
-- 
+
+Templates
+
 (by hy_speed)
