@@ -1,4 +1,4 @@
-# Create Base1: A
+# Base1: A v24
 
 ## Blueprint
 ![Preview](https://factoriobin.com/static/cdn/forever/post/w/y/e/wyeihC1N/0/v0/render-84437b363fe1feaa.jpg)
