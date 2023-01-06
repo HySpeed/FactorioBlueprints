@@ -6,8 +6,9 @@
 
 [FactorioBin](https://factoriobin.com/post/BVa8ypcB)
 
+-----
+
 ### Description
 Beaconed Rocket Silo using chests and belts for loading and unloading.
 
 (by hy_speed)
-
