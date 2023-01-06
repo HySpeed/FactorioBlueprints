@@ -10,4 +10,5 @@
 ## Research
 - Automation (Red)
 
-* [PasetBin](https://factoriobin.com/post/wyeihC1N)
+
+[FactorioBin](https://factoriobin.com/post/wyeihC1N)
