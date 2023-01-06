@@ -15,4 +15,3 @@ Bases 1 - 3:
 
 ### Book Contents
 - Base1: A v24
-
