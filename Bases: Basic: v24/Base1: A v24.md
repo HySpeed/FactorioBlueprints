@@ -1,10 +1,10 @@
 # Base1: A v24
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/w/y/e/wyeihC1N/0/v0/blueprint-30832958756172e5.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/l/e/m/leMAbbVX/0/v0/blueprint-06cfd4d029ddfb05.txt)
 
-![Preview](https://factoriobin.com/static/cdn/forever/post/w/y/e/wyeihC1N/0/v0/render-84437b363fe1feaa.jpg)
+![Preview](https://factoriobin.com/static/cdn/forever/post/l/e/m/leMAbbVX/0/v0/render-a2b331e5a4cbef37.jpg)
 
-[FactorioBin](https://factoriobin.com/post/wyeihC1N)
+[FactorioBin](https://factoriobin.com/post/leMAbbVX)
 
 -----
 
