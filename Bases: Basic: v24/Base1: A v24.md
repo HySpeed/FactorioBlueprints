@@ -1,4 +1,7 @@
 # Create Base1: A
+
+## [FactorioBin](https://factoriobin.com/post/wyeihC1N)
+
 ## Production:
 - Copper Cable
 - Electronic Circuit
@@ -10,5 +13,3 @@
 ## Research
 - Automation (Red)
 
-
-[FactorioBin](https://factoriobin.com/post/wyeihC1N)
