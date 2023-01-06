@@ -16,4 +16,3 @@
 
 **Research**
 - Automation (Red)
-
