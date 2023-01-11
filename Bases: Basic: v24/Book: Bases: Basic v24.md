@@ -17,5 +17,5 @@ Bases 1 - 3:
 (by hy_speed)
 
 ### Book Contents
-Base1: A v24
-Base2: A v24
+- Base1: A v24
+- Base2: A v24
