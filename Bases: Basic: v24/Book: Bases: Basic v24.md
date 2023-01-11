@@ -1,5 +1,7 @@
 # Bases: Basic v24
 
+## Jan 10, 2023: This book is currently out of date while other blueprints are being updated.
+
 ## [Blueprint Book String Text](https://factoriobin.com/static/cdn/forever/post/s/d/-/sD-shRFi/0/v0/blueprint-96d8c233472293f9.txt)
 
 [FactorioBin](https://factoriobin.com/post/sD-shRFi)
