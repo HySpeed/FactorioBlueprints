@@ -5,6 +5,6 @@ Blueprints for Factorio that I have created or use.
 The blueprints are arranged by function.
 
 ## Books & Prints
-Each section has a link to the blueprint book and to the individual blueprint.
+Each entry has a link to the blueprint book.
 
 See the file "How to Create a Blueprint Book in GitHub" for instructions on that process.
