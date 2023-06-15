@@ -72,15 +72,14 @@ Return to the GitHub page you started above.
 #### Add the Book Contents
 - On the FactorioBin page, select all of the lines under the **Book Contents** heading and copy them into the text buffer.
 - In the GitHub page, paste these this information under the `### Book Contents` heading.  You will need to make a change to the pasted text:
- - Replace the text `Blueprint` at the start of each line with a dash and space (`- `).  This will create a bullet list of the blueprints in the book.
+ - Replace the text `Blueprint` at the start of each line with a star and space (`* `).  This will create a bullet list of the blueprints in the book.
  >    The copy action uses the label for `Blueprint`, `Upgrade planner`, and `Deconstruction planner`.  It smashes these words together with the name of the bluperint.  You'll want to clean this up.
  
  
- >  Note that if you use icons in the blueprint title, these will be expanded with the text that defines them.  For exmaple, instead of an icon of a locomotive, the text `[item=locomotive]` will be shown.  This does not happen _inside_ the blueprint, only in the title list at the book level. :(
+ >  Note that if you use icons in the blueprint title, these will be expanded with the text that defines them.  For exmaple, instead of an icon of a locomotive, the text `[item=locomotive]` will be shown.  This does not happen _inside_ the blueprint, only in the title list at the book level. 
 
 ### **Update the Commit new file field**
-The first field under this section will be displayed when viewing the GitHub repo.  You can put anything here.  If you don't provide anything, GitHub provides a description of the action, (e.g. 'Created', 'Updated').  This doesn't provide much value to a person looking for blueprints.  I recommend a small comment describing the latest update.  (e.g. Fixed Base1: B, now v24)
-The extended description is not displayed this way.
+The first field under this section will be displayed when viewing the GitHub repo.  You can put anything here.  If you don't provide anything, GitHub provides a description of the action, (e.g. 'Created', 'Updated').  This doesn't provide much value to a person looking for blueprints.  I recommend using 'Blueprint Book'. The extended description is not displayed this way.
 
 ### **Commit the new file**
 This will save the file into the repo.  Congratulations.
