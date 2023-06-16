@@ -28,8 +28,8 @@
 * stone-wall House: T-Junction v230613
 * stone-wall House: 4-Way v230613
 * stone-wall House: Inside Corner v230613
-* train-stop stone-wall L: 1-2-1
-* train-stop stone-wall piercing-rounds-magazine crude-oil L: 1-2-1
+* train-stop stone-wall L: 1-2-1 v230616
+* train-stop stone-wall piercing-rounds-magazine crude-oil L: 1-2-1 v230616
 * stone-wall: House: Single: No Laser v230528
 * stone-wall: House: Shaft v230528
 * locomotive stone-wall: 1-2-1 v230614
