@@ -1,8 +1,8 @@
 # Defenses v230615
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/c/8/0/c80DPlPJ/0/v0/blueprint-3fc4eccc77324aef.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/9/e/s/9eSGNUAD/0/v0/blueprint-abb9ca23b56efd2e.txt)
 
-[FactorioBin](https://factoriobin.com/post/c80DPlPJ)
+[FactorioBin](https://factoriobin.com/post/9eSGNUAD)
 
 ----- 
 
