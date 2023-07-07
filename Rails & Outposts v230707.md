@@ -1,4 +1,4 @@
-# book_title
+# Rails & Outposts
 
 ## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/h/x/y/HXyxATX1/0/v0/blueprint-27918a4d38612010.txt)
 
