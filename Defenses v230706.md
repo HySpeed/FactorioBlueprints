@@ -1,4 +1,4 @@
-# Defenses v230616
+# Defenses
 
 ## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/v/i/e/vie7rCk2/0/v0/blueprint-d6d5735d543dc2a2.txt)
 
