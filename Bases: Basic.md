@@ -1,4 +1,4 @@
-# Bases: Basic
+# Bases: Basic 
 
 ## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/n/q/f/NQfpOfn_/0/v0/blueprint-db6078d489eee938.txt)
 
