@@ -2,7 +2,7 @@
 
 ## Version: v230908
 
-## [*  String Text](https://factoriobin.com/static/cdn/forever/post/i/f/1/iF1MLSc8/0/v0/* -cadef50ee5335f7c.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/i/f/1/iF1MLSc8/0/v0/blueprint-cadef50ee5335f7c.txt)
 
 [FactorioBin](https://factoriobin.com/post/iF1MLSc8)
 
