@@ -1,43 +1,40 @@
 # Defenses
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/v/i/e/vie7rCk2/0/v0/blueprint-d6d5735d543dc2a2.txt)
+## Version: v230907
 
-[FactorioBin](https://factoriobin.com/post/vie7rCk2)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/c/s/k/cSkMPz7i/0/v0/blueprint-476320bb10f2fed8.txt)
 
------ 
+[FactorioBin](https://factoriobin.com/post/cSkMPz7i)
+
+-----
 
 ### Book Contents
 
-* Wall 2 S: Straight v230619
-* Gun Turret S: Straight v230706
-* Wall 2 Gun Turret C: Corner v230706
-* Wall 4 S: Straight v230619
-* Gun Turret Flamethrower Turret: Turrets: Straight v230619
-* Wall 4 Flamethrower Turret C: Corner v230706
-* Wall: House Gun Turret One v230613
-* Wall: House Gun Turret Single v230528
-* Wall: House: Single v230528
-* Wall: House: Shaft v230528
-* Wall House: Outside Corner v230701
-* Wall House: End Cap v2306122
-* Train Stop Ammo Oil U: 1-2-1 v230706
-* Train Stop Wall Ammo Oil U: 1-2-1 v230706
-* Wall House: T-Junction v230706
-* Wall House: 4-Way v230706
-* Wall House: Inside Corner v230701
-* Train Stop Wall Ghost L:1-2-1 v230706
-* Train StopWall Ammo Oil L:1-2-1 v230706
-* Wall: House: Single: -Laser v230528
-* Wall: House: Shaft: -Laser v230528
-* Wall: Laser Pod
-* Locomotive Wall: 1-2-1 v230703
-* Locomotive Wall Ammo Oil: 1-2-1 v230706
-* Locomotive Wall Arty: 1-2-1 v230706
-* Locomotive Arty Remote Arty : 1-2-1 v230706
-* Train Stop Arty Remote 2:1-2-1 v230706
-* Locomotive  Arty Wagon 99: Straight
-* Locomotive  Arty Wagon: 15-99
-* Arty Firing Loop v230706
-* Locomotive  Arty Wagon 200 Straight
-* Locomotive  Arty Wagon 200
-
+* [stone-wall][2][S]: Straight v230619
+* [gun-turret][S]: Straight v230706
+* [stone-wall][2][gun-turret][C]: Corner v230706
+* [stone-wall][4][S]: Straight v230619
+* [gun-turret][flamethrower-turret]: Turrets: Straight v230619
+* [stone-wall][4][flamethrower-turret][C]: Corner v230706
+* [stone-wall] House: [gun-turret] Single v230528
+* [stone-wall] House: Single v230528
+* [stone-wall] House: Shaft v230528
+* [stone-wall] House: Inside Corner v230701
+* [stone-wall] House: Outside Corner v230701
+* [stone-wall] House: End Cap v2306122
+* [train-stop][stone-wall][entity=entity-ghost][L]: 1-2-1 v230703
+* [locomotive][stone-wall][entity=entity-ghost]: 1-2-1 v230703
+* [train-stop][stone-wall][piercing-rounds-magazine][fluid=crude-oil][L]: 1-2-1 v230706
+* [train-stop][stone-wall][artillery-shell][L]: 1-2-1 v230822
+* [train-stop][artillery-targeting-remote][artillery-shell][L]: 1-2-1 v230822
+* [train-stop][artillery-targeting-remote][2]: 1-2-1 v230822
+* [train-stop][piercing-rounds-magazine][fluid=crude-oil][U]: 1-2-1 v230706
+* [train-stop][stone-wall][piercing-rounds-magazine][fluid=crude-oil][U]: 1-2-1 v230825
+* [locomotive][stone-wall][piercing-rounds-magazine][fluid=crude-oil]: 1-2-1 v230706
+* [locomotive][stone-wall][artillery-shell]: 1-2-1 v230706
+* [locomotive][artillery-targeting-remote][artillery-shell]: 1-2-1 v230822
+* Arty Firing Loop: v230906
+* [locomotive][artillery-wagon]: 100:16-100-16 v230822
+* [locomotive][artillery-wagon]: 200 Straight
+* [locomotive][artillery-wagon]: 200
+* [stone-wall]: Laser Pod
