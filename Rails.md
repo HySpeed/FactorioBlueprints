@@ -2,7 +2,7 @@
 
 ## Version: v230904
 
-## [*  String Text](https://factoriobin.com/static/cdn/forever/post/r/x/u/RXuBLiro/0/v0/* -555f66d6eda8d149.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/r/x/u/RXuBLiro/0/v0/blueprint-555f66d6eda8d149.txt)
 
 [FactorioBin](https://factoriobin.com/post/RXuBLiro)
 
