@@ -1,5 +1,7 @@
 # Power
 
+## Version: v230706
+
 ## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/o/u/u/oUUX7hGv/0/v0/blueprint-e6af8fdb306a3921.txt)
 
 [FactorioBin](https://factoriobin.com/post/oUUX7hGv)

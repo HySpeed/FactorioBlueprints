@@ -2,7 +2,7 @@
 
 ## Version: v230908
 
-## [*  String Text](https://factoriobin.com/static/cdn/forever/post/e/i/p/EIpwx1iF/0/v0/* -6b8495b760dbe870.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/e/i/p/EIpwx1iF/0/v0/blueprint-6b8495b760dbe870.txt)
 
 [FactorioBin](https://factoriobin.com/post/EIpwx1iF)
 
