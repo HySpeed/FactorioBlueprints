@@ -1,10 +1,10 @@
 # Bases - Basic
 
-## Version: v230908
+## Version: v231025
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/e/i/p/EIpwx1iF/0/v0/blueprint-6b8495b760dbe870.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/v/n/p/vNPMD8fm/0/v0/blueprint-6942b09f8e544c51.txt)
 
-[FactorioBin](https://factoriobin.com/post/EIpwx1iF)
+[FactorioBin](https://factoriobin.com/post/vNPMD8fm)
 
 -----
 
@@ -24,10 +24,10 @@
 * Upgrade: Base 2: C Upgr: [iron-chest]:[logistic-chest-storage] v230901
 * Base 2: C Filter [logistic-chest-storage] v230901
 * Base 2: D v230908
-* Base 2: E v230908
-* Base 2: E Loaders v230901
+* Base 2: E v231025
+* Base 2: E Loaders v231025
 * Upgrade: Base 2: Upgr: [transport-belt]:[fast-transport-belt] v230901
-* Base 2: F v230908
+* Base 2: F v231025
 * Base 2: Extension 1 v230901
 * Base 2: B[rail-chain-signal][L] v230901
 * Base 2: B[rail-chain-signal][R] v230901
