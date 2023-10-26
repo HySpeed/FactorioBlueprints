@@ -1,19 +1,19 @@
 # Outposts
 
-## Version: v230908
+## Version: v231025
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/t/o/j/ToJqMdBY/0/v0/blueprint-19fe80bbcc487dcb.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/u/v/o/uVoAhBvL/0/v0/blueprint-9a9c2d96872ddd4b.txt)
 
-[FactorioBin](https://factoriobin.com/post/ToJqMdBY)
+[FactorioBin](https://factoriobin.com/post/uVoAhBvL)
 
 -----
 
 ### Book Contents
 
-* [train-stop][steel-chest][L]: 1-2-1 v230809
-* [train-stop][steel-chest][U]: 1-2-1 v230809
-* [train-stop][storage-tank][L]: 1-2-1 v230809
-* [train-stop][storage-tank][U]: 1-2-1 v230809
+* [train-stop][iron-chest][L]: 1-2-1 v231025
+* [train-stop][iron-chest][U]: 1-2-1 v231025
+* [train-stop][storage-tank][L]: 1-2-1 v231025
+* [train-stop][storage-tank][U]: 1-2-1 v231025
 * [electric-mining-drill][entity=entity-ghost][L]: 1-2-1 v230904
 * [stone-wall][entity=entity-ghost][L]: 1-2-1 v230904
 * [assembling-machine-2][entity=entity-ghost][L]: 1-2-1 v230904
@@ -23,16 +23,16 @@
 * [train-stop][rocket-fuel][steel-chest][L]: 1-2-1 v230908
 * [train-stop][rocket-fuel][logistic-chest-requester][L]: 1-2-1 v230908
 * [train-stop][rocket-fuel][logistic-chest-storage][U]: 1-2-1 v230908
-* [electric-furnace][copper-plate][train-stop]:1-2-1:[rocket-fuel] v230817
-* [electric-furnace][iron-plate][train-stop]:1-2-1:[rocket-fuel] v230817
-* [electric-furnace][steel-plate][train-stop]:1-2-1:[rocket-fuel] v230817
-* [rail] Ore Smelting Stacker v230817
+* [electric-furnace][copper-plate][train-stop]:1-2-1 v231025
+* [electric-furnace][iron-plate][train-stop]:1-2-1 v231025
+* [electric-furnace][steel-plate][train-stop]:1-2-1 v231025
+* [rail] Ore Smelting Stacker v231025
 * [train-stop][steel-chest][L]: 2-4-2 v230909
 * [train-stop][storage-tank][L]: 2-4-2 v230908
 * [train-stop][roboport][L]: 2-4-2 v230703
 * [train-stop][steel-chest][2][L]: 2-4-2 v230909
 * [train-stop][info][L]: 2-4-2 v230731
-* [train-stop][steel-chest][U]: 2-4-2 v230908
+* [train-stop][steel-chest][U]: 2-4-2 v231025
 * [train-stop][storage-tank][U]: 2-4-2 v230908
 * [train-stop][roboport][U]: 2-4-2 v230703
 * [train-stop][info][U]: 2-4-2 v230703
