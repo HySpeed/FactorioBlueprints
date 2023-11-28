@@ -2,9 +2,9 @@
 
 ## Version: v230907
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/c/s/k/cSkMPz7i/0/v0/blueprint-476320bb10f2fed8.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/y/i/a/yialqT8W/0/v0/blueprint-89d64a89cdcb1320.txt)
 
-[FactorioBin](https://factoriobin.com/post/cSkMPz7i)
+[FactorioBin](https://factoriobin.com/post/yialqT8W)
 
 -----
 
@@ -28,8 +28,8 @@
 * [train-stop][stone-wall][artillery-shell][L]: 1-2-1 v230822
 * [train-stop][artillery-targeting-remote][artillery-shell][L]: 1-2-1 v230822
 * [train-stop][artillery-targeting-remote][2]: 1-2-1 v230822
-* [train-stop][piercing-rounds-magazine][fluid=crude-oil][U]: 1-2-1 v230706
-* [train-stop][stone-wall][piercing-rounds-magazine][fluid=crude-oil][U]: 1-2-1 v230825
+* [train-stop][piercing-rounds-magazine][fluid=crude-oil][U]: 1-2-1 v231128
+* [train-stop][stone-wall][piercing-rounds-magazine][fluid=crude-oil][U]: 1-2-1 v231128
 * [locomotive][stone-wall][piercing-rounds-magazine][fluid=crude-oil]: 1-2-1 v230706
 * [locomotive][stone-wall][artillery-shell]: 1-2-1 v230706
 * [locomotive][artillery-targeting-remote][artillery-shell]: 1-2-1 v230822
