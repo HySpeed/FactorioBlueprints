@@ -2,9 +2,9 @@
 
 ## Version: v231203
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/h/_/3/H_3XyquM/0/v0/blueprint-72b4383ff87aefb5.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/x/-/_/X-_lBSRW/0/v0/blueprint-ebb5f6fca4cc9716.txt)
 
-[FactorioBin](https://factoriobin.com/post/H_3XyquM)
+[FactorioBin](https://factoriobin.com/post/X-_lBSRW)
 
 -----
 
