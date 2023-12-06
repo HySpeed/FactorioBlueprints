@@ -1,10 +1,10 @@
 # Factories
 
-## Version: v231203
+## Version: v231205
 
-## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/x/-/_/X-_lBSRW/0/v0/blueprint-ebb5f6fca4cc9716.txt)
+## [Blueprint String Text](https://factoriobin.com/static/cdn/forever/post/b/y/y/BYyg98ls/0/v0/blueprint-cb03b209013a0d65.txt)
 
-[FactorioBin](https://factoriobin.com/post/X-_lBSRW)
+[FactorioBin](https://factoriobin.com/post/BYyg98ls)
 
 -----
 
@@ -19,10 +19,10 @@
 * Factory: Sci & Res: B v231130
 * Factory: Sci & Res: C v231025
 * Factory: Sci & Res: D v231025
-* Factory: Rkt Cmp: A v231025
-* Factory: Rkt Cmp: B v231130
-* Factory: Rkt Cmp: C v231025
-* Factory: Rkt Cmp: D v231025
+* Factory: Rkt Cmp: A v231205
+* Factory: Rkt Cmp: B v231205
+* Factory: Rkt Cmp: C v231205
+* Factory: Rkt Cmp: D v231205
 * Factory: Arty Ammo: A v231203
 * Factory: Arty Ammo: B v231203
 * Factory: Arty Ammo: C v231203
