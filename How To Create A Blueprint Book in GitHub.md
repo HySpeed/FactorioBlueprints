@@ -30,6 +30,8 @@ Provide an online storage area for blueprints to be shared with others.
 -----
 
 ### Book Contents
+
+
 ```
 
 We will return to this GitHub page after creating the FactorioBin page.
@@ -40,7 +42,7 @@ In Factorio, select the blueprint book you want to share.  You should add a desc
 - Select the blueprint book
 - Select the `Export to String` action
 - Select the `Copy` button
->     Copying a large book will take time.  Note that FactorioBin has a limit of `2000000` characters.  I'm not sure how much of a limit this is.
+> Copying a large book will take time.  Note that FactorioBin has a limit of `2000000` characters.  I'm not sure how much of a limit this is.
 
 
 ### **Create a post in FactorioBin**
@@ -61,7 +63,7 @@ Return to the GitHub page you started above.
 
 #### Replace the `string_url`
 - On the FactorioBin page, there is a button labeled *View*.  **Right-Click** on that button and select `Copy link address`.  This will put the FactorioBin page that has the blueprint string into your copy buffer.
->     This is a link to the string.  One of the benefits of using FactorioBin is that the blueprint string is not stored in GitHub.  It is a large text string and we don't want to manage it.
+> This is a link to the string.  One of the benefits of using FactorioBin is that the blueprint string is not stored in GitHub.  It is a large text string and we don't want to manage it.
 - In the GitHub page, replace the `string_url` text with the url copied from FactorioBin by selecting `string_url` and pressing **Ctrl-Shift-V**.  (You can also select `string_url`, Right-Click, and select "Force Paste".)
 > You need to paste only the url to get around GitHub's automatic formatting.  It recognizes that you are pasting a URL and it will try to format it as such.  This messes up the "[Blueprint String Text]" message you already have.  Using Force Paste saves having to correct the link title and only inserts the URL string.
 
