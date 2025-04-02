@@ -2,7 +2,7 @@
 
 ## [Fv2 Base 1 - v250330](https://cdn.factoriobin.com/perma/bp/a/6/a6uxtl-phcnpz/fbin-a6uxtl-0.txt)
 
-[FactorioBin](Fv2 Base 1 - v250330)
+[FactorioBin](https://factoriobin.com/post/a6uxtl)
 
 -----
 
