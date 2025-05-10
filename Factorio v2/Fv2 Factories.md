@@ -1,14 +1,14 @@
 # Factorio v2 Factories
 
-## [Factories v250503](https://factoriobin.com/post/ocmezo)
+## [Fv2 Factories v250510](https://factoriobin.com/post/mo1ywj)
 
-[FactorioBin](https://cdn.factoriobin.com/perma/bp/o/c/ocmezo-htevk9/fbin-ocmezo-0.txt)
+[FactorioBin](https://cdn.factoriobin.com/perma/bp/m/o/mo1ywj-e5fbmg/fbin-mo1ywj-0.txt)
 
 -----
 
 ### Book Contents
 
-* Factory: Rocket Silo: 90[item=space-science-pack]/min v250505
+* Factory: Rocket Silo: v250510
 * Factory: Rocket Silo: Rails - RHD v250505
 * Factory: Rocket Silo: Rails - LHD v250505
 * Mini: [item=rocket] 600/m v240611
