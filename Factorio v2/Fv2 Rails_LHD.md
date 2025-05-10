@@ -1,8 +1,8 @@
 # Factorio v2 Rails LHD
 
-## [[item=rail] Rails LHD v250315](https://factoriobin.com/post/yy7wd3)
+## [Rails LHD v250510](https://factoriobin.com/post/2gjjmv)
 
-[FactorioBin](https://cdn.factoriobin.com/perma/bp/y/y/yy7wd3-fgrcmf/fbin-yy7wd3-0.txt)
+[FactorioBin](https://cdn.factoriobin.com/perma/bp/2/g/2gjjmv-1i6aic/fbin-2gjjmv-0.txt)
 
 -----
 

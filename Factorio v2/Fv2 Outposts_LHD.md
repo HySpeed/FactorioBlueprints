@@ -1,8 +1,8 @@
 # Factorio v2 Outposts LHD
 
-## [[item=train-stop] Outposts LHD v250503](https://factoriobin.com/post/3yrdd7)
+## [Outposts LHD v250510](https://factoriobin.com/post/x5bmar)
 
-[FactorioBin](https://cdn.factoriobin.com/perma/bp/3/y/3yrdd7-cob0xk/fbin-3yrdd7-0.txt)
+[FactorioBin](https://cdn.factoriobin.com/perma/bp/x/5/x5bmar-nfhkat/fbin-x5bmar-0.txt)
 
 -----
 
